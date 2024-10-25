@@ -1,4 +1,4 @@
-import { URL } from "../app/(Home)/page";
+import { URL } from "../app/constant";
 import styles from '../styles/movie-videos.module.css';
 
 export const getVideos = async (id: string) => {
